@@ -1,5 +1,5 @@
 
-## Hi, I'm Sarra Yasmine Bali 👋
+## Hi, I'm Sarra Yasmine Bali 
 
 I'm a Data Science and Artificial Intelligence student with a strong background in computer science, software development, and IT support.
 
@@ -7,7 +7,7 @@ I enjoy building practical projects that combine **data, machine learning, and r
 
 I also have experience in teaching and technical support, which helps me communicate complex ideas clearly and work well with both technical and non-technical users.
 
-### 🛠 Technical Skills
+### Technical Skills
 
 **Programming Languages**
 - Python, SQL, C#, C, Java
@@ -33,7 +33,7 @@ I also have experience in teaching and technical support, which helps me communi
 - Windows, basic Linux
 
 
-### 📫 Connect with Me
+### Connect with Me
 - LinkedIn: https://linkedin.com/in/sarrayasminebali/
 - GitHub: https://github.com/sarrabali
 - Email: sarrayasminebali@gmail.com
